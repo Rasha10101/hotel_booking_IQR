@@ -53,5 +53,5 @@ This analysis was conducted by [Rasha Alzaher]. For questions or suggestions, fe
 
 ---
 
-el booking data with a focus on identifying and handling outliers using the Interquartile Range (IQR) method...
+Hotel booking data with a focus on identifying and handling outliers using the Interquartile Range (IQR) method...
 ``
